@@ -22,8 +22,8 @@ The ‘F5URLFilteringExample_V5.sh’ script makes use of a very simple iRule to
 The ‘F5Reset.sh’ script is used to back out all the changes that the other scripts add.  This is very helpful when testing as you can run your script, check the configuration for any errors, and then run this script to reset the BIG-IP and try again.
 
 ## Author
-John D. Allen
-Solution Architect
-F5 Networks, Inc.
-
-**Please Note:**  I am no longer employed by F5 Networks. I am currently (2019) working for A10 Networks.
+John D. Allen<br>
+Sr. Solution Architect, Business Development<br>
+F5 Networks, Inc.<br>
+<br>
+**Please Note:**  I am no longer employed by F5 Networks. I am currently (2019) working for A10 Networks.<br>
